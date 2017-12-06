@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,li{
+    list-style: none;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.row{
+    display: table;
+    content: "";
+    clear: both;
+}
+.center{
+    margin-right:auto;
+    margin-left: auto;
+}
